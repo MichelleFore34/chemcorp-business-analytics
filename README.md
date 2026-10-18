@@ -35,8 +35,10 @@ The dataset spans across ChemCorp's entire operational matrix:
 *   **Chemical Portfolio:** Chemicals A through K (including Speciality lines A, G, and J).
 
 ## 📁 Repository Structure
-*   `ChemCorp_Sales_Data.xlsx` — Source transaction dataset including regional, industry, and product-level metrics.
-*   `README.md` — Strategic business brief.
+*   `ChemCorp Storytelling.twbx` — Complete Tableau Packaged Workbook containing the final interactive story points, dashboard actions, and embedded data connection.
+*   `ChemCorp_Sales_Data.xlsx` — Raw transactional dataset including regional, industry, and product-level metrics used to feed the workbook.
+*   `README.md` — Strategic business brief and executive summary.
+
 ---
 *Created by Michelle Fore. Connect with me on LinkedIn (https://www.linkedin.com/in/michellemajorfore/).*
 
